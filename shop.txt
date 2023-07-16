@@ -1,8 +1,0 @@
-G1	Games	IGI	1000	10
-G2	Games	nfsunderground	4500	34
-O1	Oil	sarson	3400	23
-G3	Games	vicecity	5500	56
-g4	Games	asdas	34	4
-g6	Games	gtafive	50000	19
-1	Games	we	23	10
-E8	Electronics	LCds	45000	50
